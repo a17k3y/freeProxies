@@ -12,7 +12,7 @@ git clone https://github.com/a17k3y/freeProxies.git
 ```
 Step 2: 
 ```
-cd freeProxies.git
+cd freeProxies
 ```
 Step 3:
 ```
